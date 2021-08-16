@@ -1,0 +1,22 @@
+.calculadora{
+    padding: 20px;
+    border-style: dotted;
+    width: 35%;
+    height: 150px;
+    margin-left: 100px;
+}
+.input{
+    margin: 10px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+
+}
+
+.output {
+    margin: 10px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+
+}
